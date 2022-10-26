@@ -1,0 +1,26 @@
+mikey.css
+* {background-color: lightyellow;}
+header {font-family: sans-serif; text-align: center; background-color: lightblue; font-size: x-large; color: whitesmoke; padding: 5px;
+}
+nav {background-color: lightseagreen;
+	float: left;
+	width: 30%;
+	height: 200px;
+	padding: 20px;
+}
+nav ul {
+	list-style: none;
+	padding: 0;
+	font-size: xx-large;
+}
+p {float: right;
+text-align: center;
+padding-top: 50px;
+font-size: x-large;
+font-style: italic;
+width: 65%;
+height: 90px;
+padding-right: 20px;
+}
+img {align-content: center; padding: 30;}
+body {background-color: lightyellow;
